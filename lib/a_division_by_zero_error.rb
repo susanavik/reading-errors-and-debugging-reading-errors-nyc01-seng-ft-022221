@@ -1,6 +1,5 @@
 42 / 6
 
-42 / 0
+42 / 2
 
-ZeroDivisionError
-  raises a ZeroDivisionError for dividing my zero
+
